@@ -1,3 +1,7 @@
 @charset "UTF-8";
 
 /* Aprelho deitado (landscape)*/
+
+body {
+   background-image: url('../imagens/imagem-landscape.jpg');
+}
